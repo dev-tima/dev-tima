@@ -2,7 +2,7 @@
 
 Check out my portfolio 👉🏼 [![mastertims](https://img.shields.io/badge/Master_Tim's-Portfolio-red)](https://master-tim.vercel.app/)
 
-I'm a **Front End Developer** passionate about crafting great user experiences and rich visual interfaces.  
+I'm a **Software Engineer** passionate about crafting great user experiences and rich visual interfaces.  
 I’ve built **2D/3D web engines**, developed **AI agents that generate playable games**, and love working with **graphics** and **UX/UI design**.
 
 ### 📬 Get in Touch
